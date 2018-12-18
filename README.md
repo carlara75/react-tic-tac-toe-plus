@@ -1,3 +1,5 @@
+This is just ReactJS tutorial available at https://reactjs.org/tutorial/tutorial.html with the improvements suggested at the *Wrapping Up* section.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
